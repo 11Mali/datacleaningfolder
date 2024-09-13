@@ -19,5 +19,6 @@ The outcome of the repository hopefully is a library that i can reference with d
 ### You can find x finished project
 
 - Nashville housing dataset (structured text data, CSV)
+- Finansforum(Norwegian finance forum) webscraping (unstructured text data, postgreSQL)
 
 

@@ -1,9 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
-
 from datetime import date, timedelta
-
 from langdetect import detect
 from multiprocessing import Pool
 
